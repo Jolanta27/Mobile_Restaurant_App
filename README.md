@@ -1,3 +1,6 @@
+Project I made on the course to train my React Native skills. 
+
+
 # Mobile_Restaurant_App
 
 1.You have to download Node and npm on your computer. Go to https://nodejs.org/en/download/ and download the LTS version of Node.
